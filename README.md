@@ -15,7 +15,6 @@ pip install telebot pytube
   cd Telegrambot-Youtube-Video-Downlaoder
 ```
 
-Use code with caution. Learn more
 Replace Telegram bot Token with your actual bot token obtained from @BotFather: https://t.me/BotFather: https://t.me/BotFather.
 ## Usage/Examples
 
